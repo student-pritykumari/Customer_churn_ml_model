@@ -1,4 +1,4 @@
-# Customer Churn Prediction System
+# Customer Churn Prediction Model
 
 ## 📌 Overview
 
